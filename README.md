@@ -60,3 +60,43 @@ the system creates a new standard room that is empty. the id of the room is the 
 
 
 ### Split Room:
+
+### Remove Room:
+the system recieves a ID of the room that the user wants to remove (reminder : all lazy students will cry).
+
+![remove room](https://user-images.githubusercontent.com/81911093/159268760-1c6b2345-1851-4547-ab9b-5f569023bc12.png)
+
+
+### Work:
+the system reicieves a room ID and tells all the students in that room to work, meaning all diligent students will announce that
+they are working.
+
+![work](https://user-images.githubusercontent.com/81911093/159269270-c7230363-0701-48d2-bb0f-d1a5b6e6bbda.png)
+
+
+### Send Message:
+the system reicieves a student ID and a message. if the student is a responsible student he will send the message to all students 
+in the room.
+
+![work](https://user-images.githubusercontent.com/81911093/159269560-5c29a731-e307-467e-924b-1df9dfb13ab0.png)
+
+
+### Print Rooms:
+the system prints all rooms with the following information: room id, num of students. the system prints the rooms in order of creation.
+
+![rooms](https://user-images.githubusercontent.com/81911093/159269817-3954c829-839c-47b0-9292-a64ee1f61ceb.png)
+
+
+### Print Students:
+the system prints all students in the system in order of arrival.
+
+![stud](https://user-images.githubusercontent.com/81911093/159270026-7a8923b7-3479-43da-b170-2b3fd4ad10e9.png)
+
+
+### Print Student details:
+the system recieves a student ID and prints his details.
+
+![stud det](https://user-images.githubusercontent.com/81911093/159270262-8380616e-accd-4025-b376-b6b525a030a8.png)
+
+### Exit:
+the system exits.
