@@ -37,7 +37,7 @@ p. Print Students
 d. Print Student details
 0. Exit
 ### System upload:
-at upload time the system has no rooms, but recieves as an argument a txt file with students that will be in the system when it loads for the first time. you can see as an example the files input.txt and big_input.txt and also see the picture below. this is the only argument recieved.
+at upload time the system has no rooms, but recieves as an argument a txt file with students that will be in the system when it loads for the first time. you can see as an example the files input.txt and big_input.txt and also see the picture below. this is the only argument recieved. the system assumes a valid input file.
 
 ![input](https://user-images.githubusercontent.com/81911093/159272653-5287c5c2-0f16-4a78-9dbd-8113788f1546.png)
 
