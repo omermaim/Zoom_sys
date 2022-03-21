@@ -39,6 +39,24 @@ d. Print Student details
  
 ### Add Student:
 adding a new student to the system by recieving details:
+
 ![Screenshot 2022-03-21 131606](https://user-images.githubusercontent.com/81911093/159250584-600d4030-0790-45b0-88e5-1d601e454fc4.png)
 
+### Remove Student:
+Removing a student from the system using his id:
 
+![remove](https://user-images.githubusercontent.com/81911093/159250990-4abaeab0-aaea-44d7-814f-94016bd9eede.png)
+
+### Assign Student:
+Assigning a student to a certain room with the student id input and room id input, if you want to move the student to the lobby
+enter -1.
+
+![assign](https://user-images.githubusercontent.com/81911093/159251266-ccd21dc2-60a7-4020-b6a8-78201d0be6df.png)
+
+### Add Room:
+the system creates a new standard room that is empty. the id of the room is the number of rooms created until the creation.
+
+![ADd room](https://user-images.githubusercontent.com/81911093/159251801-af266347-b123-4a15-81cc-5379112a56c0.png)
+
+
+### Split Room:
