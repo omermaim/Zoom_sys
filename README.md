@@ -36,7 +36,13 @@ the System has a main menu with the following options:
 p. Print Students
 d. Print Student details
 0. Exit
- 
+### System upload:
+at upload time the system has no rooms, but recieves as an argument a txt file with students that will be in the system when it loads for the first time. you can see as an example the files input.txt and big_input.txt and also see the picture below. this is the only argument recieved.
+
+![input](https://user-images.githubusercontent.com/81911093/159272653-5287c5c2-0f16-4a78-9dbd-8113788f1546.png)
+
+
+
 ### Add Student:
 adding a new student to the system by recieving details:
 
@@ -100,3 +106,7 @@ the system recieves a student ID and prints his details.
 
 ### Exit:
 the system exits.
+
+### Error handling:
+for all the functions in the main menu if the input is not valid, the system will print the error and return to the main menu.
+for every error that is not an input error the system will close itself.
