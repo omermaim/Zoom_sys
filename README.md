@@ -24,5 +24,21 @@ students stay in the room that was split.
 when a room is deleted all its children rooms are also deleted and all students belonging to the room or its childrens rooms will be moved to the father room. If there is no father room the student will have no Room(in the lobby).
 ## the System:
 the System has a main menu with the following options:
-
+1. Add Student
+2. Remove Student
+3. Assign Student
+4. Add Room
+5. Split Room
+6. Remove Room
+7. Work
+8. Send Message
+9. Print Rooms
+p. Print Students
+d. Print Student details
+0. Exit
  
+### Add Student:
+adding a new student to the system by recieving details:
+![Screenshot 2022-03-21 131606](https://user-images.githubusercontent.com/81911093/159250584-600d4030-0790-45b0-88e5-1d601e454fc4.png)
+
+
