@@ -66,6 +66,14 @@ the system creates a new standard room that is empty. the id of the room is the 
 
 
 ### Split Room:
+the system recieves a room ID and splits it depending on the input of the user(splits explained above).
+
+![split1](https://user-images.githubusercontent.com/81911093/159653843-42f7f5ff-de5f-4999-a7fb-9a4c303b6e57.png)
+
+in this example there were 4 students in room 0 and the room was split by size.
+
+![after split](https://user-images.githubusercontent.com/81911093/159653900-d39169ad-8d05-49f4-a178-8d9cb497e593.png)
+
 
 ### Remove Room:
 the system recieves a ID of the room that the user wants to remove (reminder : all lazy students will cry).
